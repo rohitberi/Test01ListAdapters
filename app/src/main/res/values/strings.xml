@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Test01 ListAdapters</string>
+
+    <string-array name="title">
+        <item>Meme 1</item>
+        <item>Meme 2</item>
+        <item>Meme 3</item>
+        <item>Meme 4</item>
+        <item>Meme 5</item>
+        <item>Meme 6</item>
+        <item>Meme 7</item>
+        <item>Meme 8</item>
+        <item>Meme 9</item>
+        <item>Meme 10</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Meme Description 1</item>
+        <item>Meme Description 2</item>
+        <item>Meme Description 3</item>
+        <item>Meme Description 4</item>
+        <item>Meme Description 5</item>
+        <item>Meme Description 6</item>
+        <item>Meme Description 7</item>
+        <item>Meme Description 8</item>
+        <item>Meme Description 9</item>
+        <item>Meme Description 10</item>
+    </string-array>
+
+</resources>
